@@ -18,8 +18,25 @@
   }
 }
 
+
+.feature__wrapper {
+  .archive__item {
+    border: 1px solid $lighter-gray;
+    transition: box-shadow .5s ease-in-out;
+    &:hover {
+      box-shadow: 2px 3px 6px 4px rgba(189, 189, 189, 0.5);
+    }
+  }  
+}
 .archive__item {
-  position: relative;
+  position: relative;  
+  padding: 10px 20px;  
+   
+
+  .archive__item-teaser {
+    margin-bottom: 20px;
+  }
+  p {font-size: .85em;}
 
   a {
     position: relative;
@@ -69,6 +86,9 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+  }
+  > .feature__wrapper {
+    margin-top: 2em;
   }
 }
 
@@ -241,10 +261,17 @@
    Features
    ========================================================================== */
 
+.feature__title {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+}
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
+  padding-bottom: 2em;
 
   .archive__item-title {
     margin-bottom: 0;
