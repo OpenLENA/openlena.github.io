@@ -1,15 +1,17 @@
 # main links
 main:
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
   - title: "Guide"
     url: /docs/organization/
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
 #  - title: "Events"
 #    url: https://github.com/architecture-solution/
   - title: "GitHub"
     url: https://github.com/archisol/
+  - title: "LENA Ent."
+    url: https://soltech.lgcns.com/lena
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
