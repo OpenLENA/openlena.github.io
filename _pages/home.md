@@ -15,14 +15,14 @@ feature_row:
   - image_path: /assets/images/img_logo_lena_web.png
     alt: "customizable"
     title: ""
-    excerpt: "LENA Web Server 의 오픈소스 버전입니다."
+    excerpt: "LENA Web Server 의 Open Edition 입니다. HTTP 표준에 대응하는 안전하고 효율적인 HTTP Server 입니다."
     url: "https://github.com/ArchiSol/lena-web-oe"
     btn_class: "btn--small"
     btn_label: "GitHub"
   - image_path: /assets/images/img_logo_lena_was.png
     alt: "customizable"
     title: ""
-    excerpt: "LENA Web Application Server의 오픈소스 버전입니다."
+    excerpt: "LENA Web Application Server의 Open Edition 입니다. Java EE Spec에 대응하는 Servlet Container 입니다."
     url: "https://github.com/ArchiSol/lena-was-oe"
     btn_class: "btn--small"
     btn_label: "GitHub"    
