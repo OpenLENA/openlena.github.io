@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/elena_logo_text.png
     alt: "customizable"
     title: ""
-    excerpt: "LENA - Middleware Solution, Opensource community"
+    excerpt: "LENA - Middleware Solution, Open Source community"
     url: "https://github.com/lenaosc"
     btn_class: "btn--small"
     btn_label: "GitHub"
