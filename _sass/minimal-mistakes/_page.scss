@@ -72,6 +72,7 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+  text-align: center;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -81,6 +82,7 @@ body {
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  text-align: center;
 }
 
 .page__content {
