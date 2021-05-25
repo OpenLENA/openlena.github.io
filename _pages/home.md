@@ -12,16 +12,16 @@ excerpt: >
   Perfect for building easy and simple software architecture.<br /><br />
   
 feature_row:
-  - image_path: /assets/images/elena_logo1.png
+  - image_path: /assets/images/img_logo_lena_web.png
     alt: "customizable"
-    title: "LENA Web Server<br />Open Edition"
+    title: ""
     excerpt: "LENA Web Server 의 오픈소스 버전입니다."
     url: "https://github.com/ArchiSol/lena-web-oe"
     btn_class: "btn--small"
     btn_label: "GitHub"
-  - image_path: /assets/images/elena_logo1.png
+  - image_path: /assets/images/img_logo_lena_was.png
     alt: "customizable"
-    title: "LENA Web Application Server<br />Open Edition"
+    title: ""
     excerpt: "LENA Web Application Server의 오픈소스 버전입니다."
     url: "https://github.com/ArchiSol/lena-was-oe"
     btn_class: "btn--small"
