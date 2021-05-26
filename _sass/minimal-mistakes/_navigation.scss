@@ -186,7 +186,8 @@
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
-    font-size: .825em;
+    font-size: 1em;
+    font-weight: 500;
 
     &:hover {
       color: $masthead-link-color-hover;

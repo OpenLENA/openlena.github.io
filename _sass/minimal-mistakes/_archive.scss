@@ -30,17 +30,17 @@
 }
 .archive__item {
   position: relative;  
-  padding: 10px 20px;  
-   
+  padding: 20px;     
 
   .archive__item-teaser {
     margin-bottom: 20px;
   }
-  p {font-size: .85em;}
+  p {font-size: .85em; margin-bottom: 0; font-weight: 500;}
 
   a {
     position: relative;
     z-index: 10;
+    padding-left: 0;
   }
 
   a[rel="permalink"] {
