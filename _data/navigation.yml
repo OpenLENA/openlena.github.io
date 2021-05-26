@@ -24,19 +24,21 @@ main:
 docs:
   - title: "오픈소스 시작하기"
     children:
-      - title: "조직구성"
-        url: /docs/organization/
-      - title: "라이선스"
+      - title: "오픈소스에 대한 이해"
+        url: /docs/what-is-open-source/
+      - title: "오픈소스 라이선스"
         url: /docs/license/
-      - title: "프로젝트 환경구성"
-        url: /docs/setupossenv/  
   - title: "오픈소스 기여하기"
     children:
-      - title: "기여 Rule"
-        url: /docs/contribution-rule/
-      - title: "기여절차"
-        url: /docs/contribution-process/
+      - title: "오픈소스 기여하기란?"
+        url: /docs/what-is-contribution/
+      - title: "오픈소스 기여활동 이유"
+        url: /docs/why-contribute/
+      - title: "오픈소스 기여시 주의 사항"
+        url: /docs/contribution-precautions/        
   - title: "오픈소스 공개하기"
     children:
-      - title: "공개 절차"
-        url: /docs/configuration/
+      - title: "오픈소스를 공개하는 이유"
+        url: /docs/why-open-project/
+      - title: "오픈소스 공개를 위한 준비"
+        url: /docs/how-to-ready-project-release/        
