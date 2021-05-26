@@ -9,7 +9,7 @@ header:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
 excerpt: >
-  Perfect for building easy and simple software architecture.<br /><br />
+  More perspectives make better software.<br /><br />
   
 feature_row:
   - image_path: /assets/images/img_logo_lena_web.png
