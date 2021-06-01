@@ -1,10 +1,21 @@
 ---
+# title: "Posts by Year"
+title: ""
 permalink: /news/
-title: "News"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2021-02-05T20:54:41-05:00
-toc: true
+layout: news
+author_profile: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
+<!-- {% for post in site.posts %}
+  {% unless post.tags contains "question" %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.content | strip_html | truncatewords: 50 }}
+    {% if post.lastmod %}
+      <span class="date">{{ post.lastmod | date: "%d-%m-%Y"  }}</span>
+    {% else %}
+      <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span>
+    {% endif %}
+  </article>
+  {% endunless %}
+{% endfor %} -->

@@ -2,14 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Guide"
-    url: /docs/what-is-open-source/
+  # - title: "Guide"
+  #   url: /docs/what-is-open-source/
   # - title: "Blog"
   #   url: /year-archive/
-#  - title: "Events"
-#    url: https://github.com/architecture-solution/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "News"
     url: /news/
   - title: "GitHub"
