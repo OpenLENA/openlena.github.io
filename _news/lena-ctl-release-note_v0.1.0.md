@@ -1,12 +1,8 @@
 ---
 title: "LENA CTL Release Note v0.1.0"
-layout: single
+layout: single-news
 toc: true
 toc_sticky: true
-categroies:
-  - Blog
-tags:
-  - Blog
 ---
 
 ## :fleur_de_lis: What is LENA WAS
