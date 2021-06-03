@@ -27,7 +27,7 @@
     border-radius: 0%;
     box-shadow: none; 
 
-    p {font-size: 1em !important; margin-bottom: 0; font-weight: 500;}
+    p {font-size: 0.85em !important; margin-bottom: 0; font-weight: 500;}
 
     &:hover {
       box-shadow: 2px 3px 6px 4px rgba(189, 189, 189, 0.5);
@@ -58,6 +58,7 @@
     z-index: 10;
     padding-left: 0;
     text-decoration: none;
+    color: #383a3c;
   }
 
   a[rel="permalink"] {
