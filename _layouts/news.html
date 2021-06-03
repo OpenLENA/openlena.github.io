@@ -1,0 +1,12 @@
+---
+layout: archive
+---
+
+{{ content }}
+<section class="taxonomy__section">
+  <div class="entries-list">
+    {% for post in site.news %}
+      {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+  </div>
+</section>

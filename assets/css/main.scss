@@ -4,5 +4,11 @@
 
 @charset "utf-8";
 
+$link-color: #2f7d95;
+
+.page__content p, .page__content li, .page__content dl {
+    font-size: 1.25em !important;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

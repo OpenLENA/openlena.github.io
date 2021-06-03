@@ -53,6 +53,7 @@ jacocoTestCoverageVerification {
 ```shell script 
 gradle test jacocoTestReport jacocoTestCoverageVerification
 ```
+
 ## Codecov
 Codecov 는 Code Coverage 결과를 통합 관리하고, Github / Circle CI / Slack 등과 연동하여 사용할 수 있는 편의를 제공한다. 주로 Github PR 분석, PR Block, Merging Report 의 용도로 사용 한다. 
 
