@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LENA Open Source"
+title                    : "LENA Open Edition"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "LENA Development Team"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "LENA Development Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "LENA Open Source."
+  bio              : "LENA Open Edition."
   location         : "Seoul"
   email            :
   links:
